@@ -1,2 +1,2 @@
-# this is my ferst  web creation
+# this is my first  web creation
 ## aminu muhammad aminu
